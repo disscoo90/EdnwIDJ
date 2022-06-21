@@ -8,7 +8,6 @@
 
 # frontend apps (Rust bridges and tech functionality -- no real visual implications)
 /apps/desktop/ @jamiepine @Brendonovich @oscartbeaumont
-/apps/mobile/ @jamiepine @Brendonovich @oscartbeaumont
 /apps/web/ @jamiepine @maxichrome
 
 # core logic
@@ -16,7 +15,6 @@
 /packages/macos/ @jamiepine @Brendonovich @oscartbeaumont
 
 # server app
-/apps/server/ @oscartbeaumont
 
 # landing site
 /apps/landing/ @jamiepine @maxichrome
@@ -39,4 +37,3 @@
 
 # development workflow
 /.github/scripts/ @oscartbeaumont
-/.github/ISSUES_TEMPLATE/ @jamiepine @Brendonovich @maxichrome @oscartbeaumont
